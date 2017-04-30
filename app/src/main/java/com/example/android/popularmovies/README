@@ -1,0 +1,6 @@
+Please use your own API key for the moviedb.
+You have to add the key at: MainActivity line 43
+
+Images:
+placeholder by: http://shashgrewal.com/wp-content/uploads/2015/05/default-placeholder.png
+error by: http://www.liquidpixels.com/images/icon-error.png

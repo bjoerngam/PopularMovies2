@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Beliebte Filme</string>
+    <string name="details_intent">Film Details</string>
+    <string name="menu_perferences">Einstellungen</string>
+    <string name="movie_details_average_votes">"Bewertung: "</string>
+    <string name="movie_details_release_date">"Veröffentlicht: "</string>
+    <string name="no_internet_connection">Keine Internet Verbindung</string>
+    <string name="main_activity_emptyscreen">Daten werden übertragen</string>
+
+    <!-- Favorite Movies-->
+    <string name="delete_all_items">Alle Favoriten wurden entfernt.</string>
+    <string name="delete_all_items_error">Es gab Probleme bei entfernen der Favoriten.</string>
+    <string name="fav_menu">Alle Favoriten entfernen.</string>
+    <string name="fav_description_movie_poster">Filmplakat</string>
+    <string name="fav_description_main_movie_poster">Haupt Filmplakat</string>
+
+    <!--Movie Details-->
+    <string name="movie_details_already_saved">Der Film ist schon gespeichert.</string>
+    <string name="save_movie_detail_sucess">Film hinzugefügt</string>
+    <string name="save_movie_detail_failed">Kann nicht den Film hinzufügen.</string>
+    <string name="movie_details_added_notification">Sie haben hinzugefügt: </string>
+    <string name="movie_details_trailer">Trailer</string>
+    <string name="movie_details_poster">Filmplakat</string>
+    <string name="movie_details_poster_second">Filmfoto</string>
+
+    <!--Menu items -->
+    <string name="menu_header">Sortierung</string>
+    <string name="popular_movies_item">Beliebe Filme</string>
+    <string name="favourite_movies_item">Eigene Favoriten</string>
+    <string name="highest_rated_movies_item">Am höchsten bewertete Filme</string>
+
+</resources>

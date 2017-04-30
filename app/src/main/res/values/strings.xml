@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="details_intent">Movie Details</string>
+    <string name="menu_perferences">Settings</string>
+    <string name="movie_details_average_votes">Average Votes: </string>
+    <string name="movie_details_release_date">Release Date: </string>
+    <string name="no_internet_connection">No working internet connection</string>
+    <string name="fav_intent">Favorite movies</string>
+    <string name="main_activity_emptyscreen">Fetchting the data</string>
+
+    <!-- Favorite Movies-->
+    <string name="delete_all_items">All favorite movies has been removed.</string>
+    <string name="delete_all_items_error">There has been a problem during removing all movies.</string>
+    <string name="fav_menu">Remove every favorite.</string>
+    <string name="fav_description_movie_poster">Movie Poster</string>
+    <string name="fav_description_main_movie_poster">Main Movie Poster</string>
+
+    <!--Movie Details-->
+    <string name="movie_details_already_saved">The movie is already part of our database.</string>
+    <string name="save_movie_detail_sucess">Add the movie</string>
+    <string name="save_movie_detail_failed">Cannot add the movie</string>
+    <string name="movie_details_added_notification">You added: </string>
+    <string name="movie_details_trailer">Trailer</string>
+    <string name="movie_details_poster">Movie Poster</string>
+    <string name="movie_details_poster_second">Second movie Photo</string>
+
+    <!--Menu items -->
+    <string name="menu_header">Sord by</string>
+    <string name="popular_movies_item">Most popular movies</string>
+    <string name="favourite_movies_item">Favourite movies</string>
+    <string name="highest_rated_movies_item">Highest rated movies</string>
+
+</resources>
